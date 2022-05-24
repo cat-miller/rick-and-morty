@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "name": "Carolin",
+      "age": 18,
+      "hobbies": ["music", "art"]
+    }
+  ]
+}
